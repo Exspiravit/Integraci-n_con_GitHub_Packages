@@ -1,5 +1,5 @@
 {
-  "name": "integracion_con_github_packages",
+  "name": "@exspiravit/integracion_con_github_packages",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
