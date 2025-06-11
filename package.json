@@ -1,0 +1,27 @@
+{
+  "name": "integracion_con_github_packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Exspiravit/Integraci-n_con_GitHub_Packages.git"
+  },
+  "author": "Randy Jesus Real Srsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Exspiravit/Integraci-n_con_GitHub_Packages/issues"
+  },
+  "homepage": "https://github.com/Exspiravit/Integraci-n_con_GitHub_Packages#readme",
+  "description": "Funciones estadísticas y generación de gráficas con nodejs",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.4.9",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
